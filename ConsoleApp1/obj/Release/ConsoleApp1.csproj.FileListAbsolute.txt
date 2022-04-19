@@ -1,0 +1,24 @@
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\Npgsql.dll
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\System.ValueTuple.dll
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\Npgsql.pdb
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\Npgsql.xml
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\bin\Release\System.ValueTuple.xml
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\obj\Release\ConsoleApp1.exe.config
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\FORZ\Documents\Visual Studio 2017\Projects\ConsoleApp1 bk\ConsoleApp1\obj\Release\ConsoleApp1.pdb
